@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="textview">One app, one game, Made by Maxence Valiere for Android exam on Dec 3rd.</string>
+    <string name="imgTic"/>
+    <string name="labelname">TextView</string>
+    <string name="name">Name</string>
+    <string name="start">START</string>
+    <string name="textview4">TextView</string>
+    <string name="sqdsq">sqdsq</string>
+    <string name="labelTurn">Player turn:</string>
+    <string name="guestLabel">X (Guest)</string>
+    <string name="playerScore">0 (Maxence Valiere)</string>
+    <string name="gameTable">Game Table</string>
+</resources>
